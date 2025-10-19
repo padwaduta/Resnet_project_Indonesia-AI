@@ -78,9 +78,7 @@ Recall: 0.95
 ---
 
 ## 🧑‍💻 Author
-Hidayat Bagus Padwaduta
-CV3 Takeo Kanade
-Indonesia AI Deep Learning Program
+Hidayat Bagus Padwaduta, CV3 Takeo Kanade, Indonesia AI Deep Learning Program
 
 
 
